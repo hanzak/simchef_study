@@ -2,4 +2,4 @@
 
 ## Description
 
-What's this simulation study about?
+Simple simulation study using simChef for learning purposes.

@@ -11,3 +11,7 @@ All dependencies are managed by `renv `. Running the code below will install all
 install.packages("renv")
 renv::restore()
 ```
+
+## Results
+
+Results for 100 reps across different sample sizes can be found in the simChef rendered doc `results/TMLE of the ATE experiment/TMLE of the ATE experiment.html`.

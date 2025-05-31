@@ -14,4 +14,4 @@ renv::restore()
 
 ## Results
 
-Results for 100 reps across different sample sizes can be found in the simChef rendered doc `results/TMLE of the ATE experiment/TMLE of the ATE experiment.html`.
+Results for 100 reps across different sample sizes can be found in the simChef rendered doc `results/TMLE of the ATE experiment/TMLE of the ATE experiment.html` in the section `Simple dgp` of the HTML page.
